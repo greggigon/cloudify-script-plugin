@@ -5,4 +5,4 @@
 plugins:
     script:
         executor: central_deployment_agent
-        source: https://github.com/greggigon/cloudify-script-plugin/archive/1.2.zip
+        source: https://github.com/greggigon/cloudify-script-plugin/archive/1.2G.zip
